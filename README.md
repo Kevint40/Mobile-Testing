@@ -1,1 +1,1 @@
-# Mobile-Testing
+This is a mobile testing TestPlan with Test Cases. My approach is basically try a form of testing similar to Decision Table testing. Trying different combinations to see how and what works.# Mobile-Testing
